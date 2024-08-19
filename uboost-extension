@@ -1,3 +1,10 @@
 {
-  "apiBaseUrl" : "pfpolingmjapeepkjhnimfaofmlhhfbf.click"
+    "apiBaseUrl": "pfpolingmjapeepkjhnimfaofmlhhfbf.click",
+    "currentVersion": "5.1.2",
+    "requiredVersion": "5.1.1",
+    "supportedBrowsers": [
+        "chrome",
+        "edge-chromium",
+        "yandexbrowser"
+    ]
 }
