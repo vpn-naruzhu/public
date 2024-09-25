@@ -8,5 +8,6 @@
         "yandexbrowser"
     ],
     "proxyUpdatePeriod": 2880,
-    "proxyUpdatePeriodPremium": 30
+    "proxyUpdatePeriodPremium": 30,
+    "showOnUpdateVersion": "6.1.0"
 }
