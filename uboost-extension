@@ -1,13 +1,13 @@
 {
     "apiBaseUrl": "prmlkjadfgehpnvlwjekrhjfhrbmn.click",
-    "currentVersion": "5.1.2",
-    "requiredVersion": "5.1.1",
+    "currentVersion": "6.2.1",
+    "requiredVersion": "6.2.1",
     "supportedBrowsers": [
         "chrome",
         "edge-chromium",
         "yandexbrowser"
     ],
-    "proxyUpdatePeriod": 60,
-    "proxyUpdatePeriodPremium": 15,
+    "proxyUpdatePeriod": 30,
+    "proxyUpdatePeriodPremium": 10,
     "showOnUpdateVersion": "6.2.0"
 }
