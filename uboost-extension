@@ -7,7 +7,7 @@
         "edge-chromium",
         "yandexbrowser"
     ],
-    "proxyUpdatePeriod": 120,
+    "proxyUpdatePeriod": 60,
     "proxyUpdatePeriodPremium": 60,
     "showOnUpdateVersion": "6.2.0"
 }
